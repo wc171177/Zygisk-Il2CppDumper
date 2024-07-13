@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
       inputs:
         package_name:
-          description: "com.tencent.lolm"
+          description: "com.qcplay.smjh.qcplay"
           required: true
 
 jobs:
